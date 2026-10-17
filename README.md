@@ -1,4 +1,4 @@
---> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:334155&height=150&section=header&text=YOUR_NAME&fontColor=e2e8f0&fontSize=38&fontAlignY=42&desc=Machine%20Learning%20%C2%B7%20Cloud%20Engineering%20%C2%B7%20Applied%20Data%20Science&descColor=94a3b8&descSize=15&descAlignY=65" width="100%" alt="header" />
+--> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:334155&height=150&section=header&text=ARSHIYA SHAIK&fontColor=e2e9G0&fontSize=38&fontAlignY=42&desc=Cloud%20Engineering%20%C2%B7%20Machine%20Learning%20%C2%B7%20Applied%20Data%20Science&descColor=94a3b8&descSize=15&descAlignY=65" width="100%" alt="header" />
 
 Third-year Computer Engineering student specializing in applied machine learning and cloud systems.<br/> I design and evaluate data-driven systems for high-stakes problems in public safety and financial security.
 
