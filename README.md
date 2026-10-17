@@ -31,7 +31,7 @@ Predictive system that forecasts heatwave conditions to give authorities and com
 
 Research-style study of whether graph-derived relationship features (shared devices and addresses, transaction velocity, connected-cluster size) outperform a strong per-transaction baseline. Evaluated on the IEEE-CIS dataset with a time-based split, leakage tests, PR-AUC and recall as primary metrics, and results averaged over multiple seeds.
 
-`Python` &nbsp; `XGBoost` &nbsp; `scikit-learn` &nbsp; `Graph Features` &nbsp; · &nbsp; [View repository →](https://github.com/arshiya7777/nexathon)
+`Python` &nbsp; `XGBoost` &nbsp; `scikit-learn` &nbsp; `Graph Features` &nbsp; · &nbsp; [View repository →](https://github.com/arshiya7777/nexathon-project)
 
 ---
 
